@@ -1,4 +1,4 @@
-# Luke's build of dwm
+# Griffin's build of dwm (fork of luke smith's...)
 
 ## FAQ
 
